@@ -1,0 +1,11 @@
+C:\Users\nick\Desktop\Work\Computer Science 3\CSC 302\SD&P Prac 2\Problems\bin\Debug\netcoreapp2.2\Problems.deps.json
+C:\Users\nick\Desktop\Work\Computer Science 3\CSC 302\SD&P Prac 2\Problems\bin\Debug\netcoreapp2.2\Problems.runtimeconfig.json
+C:\Users\nick\Desktop\Work\Computer Science 3\CSC 302\SD&P Prac 2\Problems\bin\Debug\netcoreapp2.2\Problems.runtimeconfig.dev.json
+C:\Users\nick\Desktop\Work\Computer Science 3\CSC 302\SD&P Prac 2\Problems\bin\Debug\netcoreapp2.2\Problems.dll
+C:\Users\nick\Desktop\Work\Computer Science 3\CSC 302\SD&P Prac 2\Problems\bin\Debug\netcoreapp2.2\Problems.pdb
+C:\Users\nick\Desktop\Work\Computer Science 3\CSC 302\SD&P Prac 2\Problems\obj\Debug\netcoreapp2.2\Problems.csprojAssemblyReference.cache
+C:\Users\nick\Desktop\Work\Computer Science 3\CSC 302\SD&P Prac 2\Problems\obj\Debug\netcoreapp2.2\Problems.csproj.CoreCompileInputs.cache
+C:\Users\nick\Desktop\Work\Computer Science 3\CSC 302\SD&P Prac 2\Problems\obj\Debug\netcoreapp2.2\Problems.AssemblyInfoInputs.cache
+C:\Users\nick\Desktop\Work\Computer Science 3\CSC 302\SD&P Prac 2\Problems\obj\Debug\netcoreapp2.2\Problems.AssemblyInfo.cs
+C:\Users\nick\Desktop\Work\Computer Science 3\CSC 302\SD&P Prac 2\Problems\obj\Debug\netcoreapp2.2\Problems.dll
+C:\Users\nick\Desktop\Work\Computer Science 3\CSC 302\SD&P Prac 2\Problems\obj\Debug\netcoreapp2.2\Problems.pdb

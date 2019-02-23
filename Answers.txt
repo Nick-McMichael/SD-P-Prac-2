@@ -1,0 +1,18 @@
+SD&P Practical 2
+Part1 
+Answer 1:
+	Git init
+Answer 2:
+	dotnet new console -n Problems
+Answer 3:
+	dotnet new sln -n MyStuff
+Answer 4:
+	dotnet sln add Problems
+Answer 5:
+	dotnet build
+Answer 6:
+	dotnet new nunit
+Asnwer 7:
+	$ git remote -v
+	origin  https://github.com/Nick-McMichael/SD-P-Prac-2.git (fetch)
+	origin  https://github.com/Nick-McMichael/SD-P-Prac-2.git (push)
